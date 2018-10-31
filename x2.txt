@@ -1,2 +1,25 @@
 我是x2，你是？
 我就是x2，我找到你了，哈哈x3来啦
+
+
+
+4.22  入职
+4.23-4.27	熟悉UFP-NG/dev-workspace-ng。
+5.2-5.4	继续熟悉UFP-NG/dev-workspace-ng 利用angular.js,开发angularjs-ufp-ui-title，angularjs-ufp-ui-hint。
+5.7-5.11 开发框架转到vue.js,看UFP-NG/dev-workspac，熟悉vue代码，开始开发薪金宝详情页。
+5.14-5.18 开发vue-ufp-ui-title，vue-ufp-ui-hint，了解薪金宝其他页面的构建
+5.21-5.25 完善vue-ufp-ui-title，vue-ufp-ui-hint，开发薪金宝详情页
+5.28-6.1 熟悉iview和element-ui，tabs，dataPicker，table，select，page等组件在薪金宝详情页面的使用，依据ui需求修改组件间的样式。
+6.4-6.8 在薪金宝页面实现规定的UI样式构建，分别使用iview和element-ui搭建了页面，修改iview的table底层，实现动态设置icon的图标样式，但是在后期没有使用
+6.11-6.22 开发vue-ufp-ui-notice，并新增加移动端页面，因为iview不支持移动端，新增移动端的配置问题，配合thunder项目的开发，修改iview select样式
+6.25-6.29  修改薪金宝详情页的ui样式问题，
+7.2-7.10 修改薪金宝详情移动端的响应控制
+7.16-7.20 修改vue-ufp-ui-hint，增加点击收起的功能，了解cbButton的组件构建
+7.23-8.7 查看之前支持的thunder项目的源码，解决了之前一些疑惑的问题
+8.8-8.16 自己开发一个小项目，利用之前的组件来构建，熟悉了组件的API，以及组件的开发。
+8.23-8.24 为每个vue-ufp-ui-xx组件增加 vscode-snippets文件 
+8.27-8.31 了解跟进项目的一些规范，写了一些对框架的总结，使用方法，以及注意事项
+9.3-9.14 开始跟进智慧柜台项目，了解项目的需求，app外壳接口文档
+9.17-9.27  查看vue-ufp-wiki组件，在网上搜集资料，本地测试代码效果，目标开发成和element-ui官方文档一样
+10.8-10.12 继续修改自己的mds项目，其中利用node.js来复制同级目录的md文件，加载到指定的目标文件，通多网上的例子对项目进行修改，但是效果不太理想，因为只能渲染一个temolate标签内的代码，如若多个文件会出现覆盖
+10.15-10.29 休假
